@@ -1,4 +1,3 @@
-# n = int(input())
 input()
 an = list(map(int, input().split()))
 count = 0
