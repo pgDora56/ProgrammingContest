@@ -18,6 +18,7 @@
 * AtCoder Regular Contest => ARC
 * AtCoder Grand Contest => AGC
 * ACM-ICPC 国際大学対抗プログラミングコンテスト => ICPC
+* AIZU ONLINE JUDGE => AOJ (コンテストではないけども…)
 
 と略します。まあよく知られてる略称。
 
