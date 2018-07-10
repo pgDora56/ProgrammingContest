@@ -14,11 +14,12 @@
 
 ここでは
 
-* AtCoder Beginner Contest => ABC
-* AtCoder Regular Contest => ARC
-* AtCoder Grand Contest => AGC
-* ACM-ICPC 国際大学対抗プログラミングコンテスト => ICPC
-* AIZU ONLINE JUDGE => AOJ (コンテストではないけども…)
+* [AtCoder](http://atcoder.jp/)
+    * AtCoder Beginner Contest => ABC
+    * AtCoder Regular Contest => ARC
+    * AtCoder Grand Contest => AGC
+* [ACM-ICPC 国際大学対抗プログラミングコンテスト](https://icpc.iisf.or.jp/) => ICPC
+* [AIZU ONLINE JUDGE](http://judge.u-aizu.ac.jp/onlinejudge/index.jsp) => AOJ (コンテストではないけども…)
 
 と略します。まあよく知られてる略称。
 
