@@ -1,7 +1,7 @@
 *.txt
 *XXX.py
 *TLE.py
-/XXX
+XXX
 /.vscode/
 /XXX/
 /Playing/
