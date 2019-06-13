@@ -1,4 +1,5 @@
 *.txt
+*.log
 *XXX.py
 *TLE.py
 XXX
