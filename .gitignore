@@ -1,6 +1,7 @@
 *.txt
 *.log
 *XXX.py
+*WA.py
 *TLE.py
 XXX
 /.vscode/
