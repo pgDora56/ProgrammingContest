@@ -8,3 +8,5 @@ for minute in minutes:
     x = math.ceil(x / 10) * 10
     x += minute
 print(x)
+
+
