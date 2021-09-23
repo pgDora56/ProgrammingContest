@@ -17,3 +17,18 @@ def cmb(n, r):
                 denominator[k] /= pivot
 
 
+# 二分探索
+import bisect
+a=[1,3,5,7,9,11,13,15,17,19]
+x=4
+insert_index = bisect.bisect_left(a,x)
+
+"""
+insert_index=2
+"""
+
+a.insert(insert_index,x)
+print(a)
+"""
+Out[1]:[1,3,4,5,7,9,11,13,15,17,19]
+"""
